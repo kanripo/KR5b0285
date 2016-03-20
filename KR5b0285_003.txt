@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view; -*-
 #+DATE: 2015-08-29 00:15:43.035431
-#+TITLE: 玄圃山靈  秘錄
+#+TITLE: 玄圃山靈⿷匚金秘錄
 #+PROPERTY: DZID  DZ0580
 #+PROPERTY: SOURCE  正統道藏，三家本，1988，10—727 三卷 洞玄部眾術類
 #+PROPERTY: BASEEDITION HFL
@@ -9,7 +9,7 @@
 #+PROPERTY: JUAN 3
 #+PROPERTY: ID KR5b0285
 <pb:KR5b0285_HFL_003-001a>¶
-玄圃山靈秘籙卷下¶
+玄圃山靈⿷匚金秘籙卷下¶
 　　　第一起光(可以幻疑彼/知化伏士卒)¶
 光者至精之物烜耀也其本日精實其至精¶
 而陽精假合物固矣光太陽之光晶而至陽¶
