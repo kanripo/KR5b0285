@@ -1,13 +1,13 @@
 # -*- mode: mandoku-view; -*-
 #+DATE: 2015-08-29 00:15:42.961368
-#+TITLE: 玄圃山靈  秘錄
+#+TITLE: 玄圃山靈⿷匚金秘錄
 #+PROPERTY: DZID  DZ0580
 #+PROPERTY: SOURCE  正統道藏，三家本，1988，10—727 三卷 洞玄部眾術類
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS HFL
 #+PROPERTY: ID KR5b0285
 <pb:KR5b0285_HFL_000-001a>¶
-玄圃山靈秘籙序五一¶
+玄圃山靈秘⿷匚金籙序五一¶
 　至哉是書其來逺矣自下邳先生得之泰¶
 　山嵁岩石宂後傳數子得此書者或輔于¶
 　國或伏于野或超于物表或幻于世俗忽¶
