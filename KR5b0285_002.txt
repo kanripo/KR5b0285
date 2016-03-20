@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view; -*-
 #+DATE: 2015-08-29 00:15:43.015229
-#+TITLE: 玄圃山靈  秘錄
+#+TITLE: 玄圃山靈⿷匚金秘錄
 #+PROPERTY: DZID  DZ0580
 #+PROPERTY: SOURCE  正統道藏，三家本，1988，10—727 三卷 洞玄部眾術類
 #+PROPERTY: BASEEDITION HFL
@@ -9,7 +9,7 @@
 #+PROPERTY: JUAN 2
 #+PROPERTY: ID KR5b0285
 <pb:KR5b0285_HFL_002-001a>¶
-玄圃山靈秘籙卷中(下同/卷五二)¶
+玄圃山靈⿷匚金秘籙卷中(下同/卷五二)¶
 　　　第一震陣(可以挫伐强/盛不戰自勝)¶
 凡止兵貴在得所所壯則兵勢强勢強則敵¶
 勝臨軍之日駐陣自得其所形勢強壯更測¶
